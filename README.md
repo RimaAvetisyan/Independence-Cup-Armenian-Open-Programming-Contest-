@@ -21,3 +21,6 @@ This repository contains solutions to problems from the Independence Cup (Armeni
 (L) Event organization stdin/stdout
 (M1) Faulty XOR Machines in a Tree (Easy) stdin/stdout
 (M2) Faulty XOR Machines in a Tree (Hard) stdin/stdout
+
+## Problem A
+[Independence Cup 2024.pdf](https://github.com/user-attachments/files/17732740/Independence.Cup.2024.pdf)
