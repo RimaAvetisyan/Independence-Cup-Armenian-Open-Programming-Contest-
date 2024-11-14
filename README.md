@@ -25,16 +25,16 @@ Each problem is located in a separate Jupyter notebook, making it easy to follow
 
 ## Problem Descriptions
 ### Problem A
-[Independence Cup 2024.pdf](https://github.com/user-attachments/files/17732740/Independence.Cup.2024.pdf)
-
+[A.pdf](https://github.com/user-attachments/files/17747555/A.pdf)
 ### Problem B
-
+[B.pdf](https://github.com/user-attachments/files/17747557/B.pdf)
 ### Problem E1
-
+[E1.pdf](https://github.com/user-attachments/files/17747558/E1.pdf)
 ### Problem E2
-
+[E2.pdf](https://github.com/user-attachments/files/17747561/E2.pdf)
 ### Problem F
-
+[F.pdf](https://github.com/user-attachments/files/17747570/F.pdf)
 ### Problem K1
-
+[K1.pdf](https://github.com/user-attachments/files/17747572/K1.pdf)
 ### Problem K2
+[K2.pdf](https://github.com/user-attachments/files/17747577/K2.pdf)
